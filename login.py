@@ -1,4 +1,4 @@
-iiiu, p = user1, 1234
+u, p = user1, 1234
 if input(Username: ) == u and input(Password: ) == p:
     print(✅ Login successful!)
 else:
@@ -6,4 +6,3 @@ else:
 modifying py.code in fe/login branch
 modifying python login code in dev branch
 modifying python code in the feature branch
-modifying the py code in dev branch
