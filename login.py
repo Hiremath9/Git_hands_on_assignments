@@ -1,4 +1,4 @@
-iiiu, p = user1, 1234
+u, p = user1, 1234
 if input(Username: ) == u and input(Password: ) == p:
     print(✅ Login successful!)
 else:
