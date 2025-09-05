@@ -4,5 +4,3 @@ if input(Username: ) == u and input(Password: ) == p:
 else:
     print(❌ Invalid login)
 modifying py.code in fe/login branch
-modifying python login code in dev branch
-modifying python code in the feature branch
